@@ -1,12 +1,11 @@
-## Hi there 👋
+<img width="1254" height="1254" alt="Zayan_ Code, Football, Dream" src="https://github.com/user-attachments/assets/f2304219-9c18-48b1-ae1f-c0a5da1d5bb4" /> Hi there 👋
 
-<!--
-**zayan238/zayan238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 website developer
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
