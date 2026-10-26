@@ -1,15 +1,18 @@
-<img width="900" height="500" alt="Zayan_ Code, Football, Dream" src="https://github.com/user-attachments/assets/f2304219-9c18-48b1-ae1f-c0a5da1d5bb4" /> Hi there 👋
+<img width="900" height="500" alt="Zayan_ Code, Football, Dream" src="https://github.com/user-attachments/assets/f2304219-9c18-48b1-ae1f-c0a5da1d5bb4" /> 
 
 
+Hi there 👋
+
+join us on inestagram for latest football update about football and football players
 
 
 Here are some ideas to get you started:
 
 - 🔭 website developer
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with 
+- 💬 Ask me about 
+- 📫 How to reach me: 
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
+
