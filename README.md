@@ -1,4 +1,4 @@
-<img width="300" height="600" alt="Zayan_ Code, Football, Dream" src="https://github.com/user-attachments/assets/f2304219-9c18-48b1-ae1f-c0a5da1d5bb4" /> Hi there 👋
+<img width="600" height="300" alt="Zayan_ Code, Football, Dream" src="https://github.com/user-attachments/assets/f2304219-9c18-48b1-ae1f-c0a5da1d5bb4" /> Hi there 👋
 
 
 
