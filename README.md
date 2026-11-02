@@ -6,8 +6,8 @@
 <img width="100" height="50" alt="Zayan_ Code, Football, Dream" src="https://camo.githubusercontent.com/2b1dcb3942772832212abad4535fc3621ff825a59b542a7bbdf2fad766e8abc2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d706c6173746963266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" /> 
 Hi there 👋
 
-join us on inestagram for latest football update about football and football players
-
+join us on inestagram for latest football update about football and football players:
+name:football_legend_officall .
 
 Here are some ideas to get you started:
 
@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with 
 - 💬 Ask me about 
 - 📫 How to reach me: 
-- 😄 Pronouns: 
+- 😄 Pronouns:
+<img width="300" height="150" alt="Zayan_ Code, Football, Dream" src="
+https://camo.githubusercontent.com/988a1bf908c198d094b7f4a2e52bfa5b01e59b44f3c96dc98dadd7d519284fdf/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d6565727175616973267468656d653d6461726b26686964655f626f726465723d74727565" /> 
+
+
+
+
 - ⚡ Fun fact: 
 
